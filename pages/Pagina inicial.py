@@ -20,3 +20,4 @@ st.markdown("Os dashboards apresentados utilizam dados simulados e têm como obj
 st.header("📌 Objetivo deste portfólio")
 st.markdown("Demonstrar minha capacidade de unir conhecimento de negócio, análise de dados e visualização da informação, ajudando empresas e gestores a enxergarem seus dados com mais clareza e tomarem decisões mais assertivas.")
 
+st.markdown("Contato: amavi.servico@gmail.com")
